@@ -8,3 +8,11 @@ a {
     font-weight: normal;
     font-style: normal;
 }
+
+.navbar {
+    background-color: black;
+}
+
+.navbar li {
+    margin-top: 0.25%;
+}
